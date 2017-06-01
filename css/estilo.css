@@ -1,0 +1,21 @@
+/*@font-face{
+	font-family: "LatoB";
+	src: url(../fonts/Lato-Bold.ttf);
+}
+*/
+html { overflow-y: scroll;
+ }
+
+body{
+	background:url(../images/background.jpg) center center fixed;
+	background-size: cover;
+}
+.logo{
+	background:url(../images/logopagina.jpg);
+	position:absolute;
+    top:60px;
+    left:0px;
+    height:90px;
+    width:300px;
+   
+}
